@@ -1,2 +1,6 @@
-# create-an-api
-3 Different Ways to Create Your Own API
+# 3 Ways To Create Your Own API
+Three beginner-friendly methods for creating an API from scratch!
+
+These are the example for files for my blog post all about creating APIs from scratch.
+
+Blog Post Link -> 

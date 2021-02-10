@@ -1,0 +1,12 @@
+{
+  "dogs": [
+    { "id": 1, "breed": "pembroke-welsh-corgi", "name": "charles" },
+    { "id": 2, "breed": "pug", "name": "cheese" },
+    { "id": 3, "breed": "dachshund", "name": "ralph" }
+  ],
+  "cats": [
+    { "id": 1, "breed": "ragdoll", "name": "mimi" },
+    { "id": 2, "breed": "siamese", "name": "mocha" },
+    { "id": 3, "breed": "russian-blue", "name": "bean" }
+  ]
+}
